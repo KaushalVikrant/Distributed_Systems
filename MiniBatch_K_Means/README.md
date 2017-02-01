@@ -2,8 +2,8 @@
 MiniBatch-K Means<br />
 Team members:- Vikrant Kaushal(vkaushal) Shalabh(sshalabh)<br />
 
-
-
+![alt tag](https://github.com/KaushalVikrant/Distributed_Systems/blob/master/MiniBatch_K_Means/Workflow%20for%20Harp.PNG)
+![alt tag](https://github.com/KaushalVikrant/Distributed_Systems/blob/master/MiniBatch_K_Means/Time%20vs%20NumberOfIterations.PNG)
 ![alt tag](https://github.com/KaushalVikrant/Distributed_Systems/blob/master/MiniBatch_K_Means/High%20CPU%20Usage.PNG)
 
 Contribution:<br />
