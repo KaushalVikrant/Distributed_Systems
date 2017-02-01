@@ -2,6 +2,10 @@
 MiniBatch-K Means<br />
 Team members:- Vikrant Kaushal(vkaushal) Shalabh(sshalabh)<br />
 
+
+
+![alt tag](https://github.com/KaushalVikrant/Distributed_Systems/blob/master/MiniBatch_K_Means/High%20CPU%20Usage.PNG)
+
 Contribution:<br />
 <br />
 Vikrant Kaushal (vkaushal):<br />
